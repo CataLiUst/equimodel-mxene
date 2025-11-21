@@ -1,0 +1,68 @@
+MIT License
+
+Copyright (c) 2025 CataLiUst (Pavlo Melnyk, Anmar Karmush, Jonas Björk), jonas.bjork@liu.se
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+-----------------------------------
+Non-Code Assets (Models & Dataset)
+-----------------------------------
+
+The trained model weights and associated dataset referenced in this repository
+(e.g., via Zenodo DOI links) are **not** licensed under the MIT License.
+
+They are provided under the:
+
+    Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International
+    (CC BY-NC-SA 4.0) License
+
+You may use, share, and adapt the model weights and dataset for
+**non-commercial purposes only**, and any derivative works must be distributed
+under the same license.
+
+Full license text:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+-----------------------------------
+Third-Party and Vendored Code
+-----------------------------------
+
+This repository contains third-party components, submodules, or vendored
+directories that are licensed separately.
+
+Each such component retains its original copyright and license.
+Their respective license files can be found in the corresponding subdirectory,
+and their terms **supersede the MIT License for those specific components**.
+
+When using or redistributing those components, you must comply with their
+individual license terms.
+
+
+-----------------------------------
+Summary
+-----------------------------------
+
+- **All code in this repository authored by CataLiUst (Pavlo Melnyk, Anmar Karmush, Jonas Björk) is MIT-licensed.**
+- **Model weights + dataset are CC BY-NC-SA 4.0.**
+- **Vendored or third-party code follows its own license.**
+
+If you contribute to this repository, you agree that your contributions
+will be licensed under the MIT License unless explicitly stated otherwise.
