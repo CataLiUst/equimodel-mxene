@@ -2,7 +2,7 @@
 
 This repository contains the code for the "Equivariant Modelling for Catalysis on 2D MXenes" (Melnyk et al., 2025) paper. 
 
-[[bibtex]](https://github.com/CataLiUst/equimodel-mxene#citation) [[dataset]](https://github.com/CataLiUst/equimodel-mxene#dataset) [[trained_models]](https://github.com/CataLiUst/equimodel-mxene#trained-models) 
+[[paper]](https://openreview.net/forum?id=GHGRyCrSz4) [[dataset]](https://github.com/CataLiUst/equimodel-mxene#dataset) [[trained_models]](https://github.com/CataLiUst/equimodel-mxene#trained-models) [[bibtex]](https://github.com/CataLiUst/equimodel-mxene#citation)
 <!-- [[dataset]](https://doi.org/10.5281/zenodo.17652071) [[trained_models]](https://doi.org/10.5281/zenodo.17654434) -->
 
 **Note:**
